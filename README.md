@@ -1,7 +1,7 @@
 ### Helloo, I am João!!!✌️
 
 - 📚 I’m currently studing on Vai na Web
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React
 - 🎓 Graduating at Centro Universitário Senac on Sistem Analysis
 
 <div align="center">
