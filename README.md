@@ -1,7 +1,7 @@
 ### Helloo, I am João!!!✌️
 
 - 📚 I’m currently working on Vai na Web as Front-end Facilitator!!
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React
+- 🌱 I’m currently learning React
 - 🎓 Graduating at Centro Universitário Senac on Sistem Analysis
 
 <div align="center">
