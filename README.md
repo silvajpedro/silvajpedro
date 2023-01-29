@@ -1,8 +1,9 @@
 ### Helloo, I am João!!!✌️
 
 - 📚 I’m currently working on Vai na Web as Front-end Facilitator!!
-- 🌱 I’m currently learning React
 - 🎓 Graduating at Centro Universitário Senac on Sistem Analysis
+- 🚀 I’m always practicing HTML5, CSS, JavaScript and ReactJS
+= 💻 I’m currently learning SAAS.
 
 <div align="center">
   <a href="https://github.com/silvajpedro">
