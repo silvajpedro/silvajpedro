@@ -2,7 +2,7 @@
 
 - 📚 I’m currently working on Vai na Web as Front-end Facilitator!!
 - 🎓 Graduating at Centro Universitário Senac on Sistem Analysis
-- 🚀 I’m always practicing HTML5, CSS, JavaScript and ReactJS
+- 🚀 I’m always practicing HTML5, CSS, JavaScript, Styled-Components and ReactJS
 - 💻 I’m currently learning SAAS.
 
 <div align="center">
