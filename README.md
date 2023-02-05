@@ -5,7 +5,7 @@
 - 🚀 I’m always practicing HTML5, CSS, JavaScript, Styled-Components and ReactJS
 - 💻 I’m currently learning Sass.
 
-## 🛠 &nbsp;Main skills:
+## 🛠 &nbsp;Tecnologies:
 
 <div>
  <img align="center" alt="HTML badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
