@@ -1,4 +1,4 @@
-### Helloo, I am João!!!✌️
+### Helloo, I am João!!!✌️😁
 
 - 📚 I’m currently working on Vai na Web as Front-end Facilitator!!
 - 🎓 Graduating at Centro Universitário Senac on Sistem Analysis
