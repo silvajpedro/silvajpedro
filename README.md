@@ -37,9 +37,11 @@
 
 <br/>
 
-<a href="https://github.com/silvajpedro" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvajpedro&theme=dracula&show_icons=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/silvajpedro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvajpedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvajpedro&layout=compact&langs_count=10&theme=dracula"/>
+</div>
 
 ## Onde me encontrar
 
