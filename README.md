@@ -1,36 +1,51 @@
-### Helloo, I am João!!!✌️😁
+## Oiii prazer, sou o João!!!✌️😁
 
-- 📚 I’m currently working on Vai na Web as Front-end Facilitator!!
-- 🎓 Graduating at Centro Universitário Senac on Sistem Analysis
-- 🚀 I’m always practicing HTML5, CSS, JavaScript, Styled-Components and ReactJS
-- 💻 I’m currently learning Next and Sass.
+## Sobre mim
 
-## 🛠 &nbsp;Tecnologies:
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **ADS** no **Instituto Senac**.
+- 💼 Trabalhando como **Instrutor Técnico** no **Vai Na Web**
+- 🌱 Atualmente aprendendo mais sobre **Nuvem AWS** & **Python**.
 
-<div>
- <img align="center" alt="HTML badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="React.js badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="Styled-components badge" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img align="center" alt="Sass" badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-   <img align="center" alt="Git badge" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+## Minhas Skills
 
-<br>
-<br> 
+**- Aplicações e dados**
 
-<div align="center">
-  <a href="https://github.com/silvajpedro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvajpedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvajpedro&layout=compact&langs_count=10&theme=dracula"/>
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+![Styled-Components](https://img.shields.io/badge/-Styled--Components-333333?style=flat&logo=styled-components)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![NextJs](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 
+**- Utilidades**
 
-  ![Snake animation](https://github.com/silvajpedro/silvajpedro/blob/output/github-contribution-grid-snake.svg)
-  
-https://github-readme-stats.vercel.app/api?username=[silvajpedro]
+![Prismic](https://img.shields.io/badge/-Prismic-333333?style=flat&logo=prismic)
 
+**- DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+
+**- Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/silvajpedro" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvajpedro&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-João_Pedro_Belo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-pedro-belo/)](https://www.linkedin.com/in/joão-pedro-belo/)
+[![Gmail Badge](https://img.shields.io/badge/-belojpedro.31@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:belojpedro.31@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/silvajpedro?label=follow&style=social)](https://github.com/silvajpedro)
   
   
 
